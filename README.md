@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://alisaqib-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/saqib–ali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saqib--ali/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:alisaqibh1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -82,7 +82,7 @@ Android app connecting vehicle owners with nearby mechanics using real-time loca
 
 ### 📜 Certifications
 
-- 🎓 **IBM AI Engineering Professional Certificate** — 13-course specialization (In Progress) — [IBM/Coursera](https://www.ibm.com)
+- 🎓 **IBM AI Engineering Professional Certificate** — 13-course specialization (In Progress)
   - ✅ [Machine Learning with Python](https://coursera.org/share/76540fd2fd806c4e8100985d32f614a0)
   - ✅ [Generative AI and LLMs: Architecture and Data Preparation](https://coursera.org/share/79f6d138f3a2e08d8733e911e342cf81)
   - 🔄 Remaining courses in progress (Deep Learning, Transformers, RAG & LangChain, AI Agents)
@@ -100,11 +100,8 @@ Android app connecting vehicle owners with nearby mechanics using real-time loca
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisaqibh1&show_icons=true&theme=dark&hide_border=true" alt="Saqib's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisaqibh1&theme=dark&hide_border=true" alt="Saqib's GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alisaqibh1&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=alisaqibh1&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -112,7 +109,7 @@ Android app connecting vehicle owners with nearby mechanics using real-time loca
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/saqib–ali">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/saqib--ali/">LinkedIn</a> •
   <a href="https://alisaqib-portfolio.vercel.app">Portfolio</a> •
   <a href="mailto:alisaqibh1@gmail.com">Email</a>
 </p>
