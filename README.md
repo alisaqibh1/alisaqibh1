@@ -48,7 +48,6 @@ Responsive booking platform with event-type configuration and end-to-end appoint
 
 **🚗 GearAid (Final Year Project)** — Vehicle Assistance App  
 Android app connecting vehicle owners with nearby mechanics using real-time location services and Firebase. *Awarded Certificate of Appreciation by University of Baltistan.* Kotlin · Firebase
-
 ---
 
 ### 🛠️ Tech Stack
