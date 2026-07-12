@@ -22,7 +22,6 @@
 - ⚡ Fun fact: **I think I am funny 😂**
 
 ---
-
 ### 🚀 Featured Projects
 
 **🩺 [SkinSense AI](https://skinsenseai-pk.vercel.app)** — Skin Disease Detection Platform  
